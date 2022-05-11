@@ -1,4 +1,11 @@
 /*FUNCTION OVERLOADING*/
+/* 
+Ways to Overload a function:- 
+    1. Different number of arguments.
+    2. Different type of arguments.
+    3. Different order of arguments.
+Note:- Different return type is not considered as function overloading
+*/
 #include<iostream>
 using namespace std;
 /*Function SUM for addition of 2 numbers*/
